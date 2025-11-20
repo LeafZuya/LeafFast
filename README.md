@@ -976,12 +976,12 @@
         const avatars = ['😊', '😎', '🤠', '🧐', '🤩', '😍', '🥳', '🤖', '🐱', '🦊', '🐶', '🐼'];
 
         // Sound Effect
-        const clickSound = new Audio("data:audio/wav;base64,UklGRigAAABXQVZFZm10IBIAAAABAAEARKwAAIhYAQACABAAAABkYXRhAgAAAAEA");
+        const clickSound = new Audio("Hey.mp3");
         
         // Tombol gambar (gunakan placeholder, ganti dengan URL gambar kamu)
         const buttonImages = {
-            normal: "https://via.placeholder.com/200x200/4CAF50/FFFFFF?text=KLIK",
-            pressed: "https://via.placeholder.com/200x200/45a049/FFFFFF?text=KLIK!"
+            normal: "Bahlil.jpg",
+            pressed: "BahlilB.jpg"
         };
 
         // Initialize - Load saved data dengan lebih baik
